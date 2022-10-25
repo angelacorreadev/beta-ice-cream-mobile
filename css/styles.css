@@ -98,10 +98,24 @@ color: #FFFFFF;
     width: 280px;
     height: auto;
     left: 20px;
-    top: 642px;
     border-bottom-right-radius: 50%;
     border-bottom-left-radius: 50%;
 }
+
+.product-card-image:nth-child(1){
+    top:642px;
+}
+
+
+.product-card-image:nth-child(2){
+    top:1271px;
+}
+
+.product-card-image:nth-child(3){
+    top:1900px;
+}
+
+
 .slogan{
     position: absolute;
     width: 142px;
